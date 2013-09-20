@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Employee</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="Fname">First Name</string>
+    <string name="Lname">Last Name</string>
+    <string name="Age">Age</string>
+    <string name="Gender">Gender</string>
+    <string name="Male">Male</string>
+    <string name="Female">Female</string>
+    <string name="Department">Department</string>
+    <string name="Emailid">Email ID</string>
+    <string name="ContactNo">Conatct Number</string>
+    <string name="Register">Register Employee</string>
+    <string name="dob">Date of Birth</string>
+
+
+    
+</resources>
